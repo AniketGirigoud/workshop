@@ -6,4 +6,6 @@ git status
 git add
 git add .
 git commit -m 
-
+git remote set-url origin https://token@github.com/Aniketgirigoud.workshop.git
+git push origin master
+git status
