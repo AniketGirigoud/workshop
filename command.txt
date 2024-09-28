@@ -6,4 +6,6 @@ git status
 git add
 git add .
 git commit -m 
-
+git restore filename
+git --cached filename 
+git restore --staged filename
