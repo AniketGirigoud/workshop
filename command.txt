@@ -15,3 +15,8 @@ git restore filename
 git --cached filename 
 git restore --staged filename
 >>>>>>> 3df8c88 (02update commandlist)
+
+when there is probleam in git push , follow this steps
+1) git push 
+    = it givies some suggestation on terminal
+     pass command that git push origin HEAD:matser
