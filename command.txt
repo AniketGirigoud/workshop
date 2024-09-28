@@ -6,6 +6,12 @@ git status
 git add
 git add .
 git commit -m 
+<<<<<<< HEAD
 git remote set-url origin https://token@github.com/Aniketgirigoud.workshop.git
 git push origin master
 git status
+=======
+git restore filename
+git --cached filename 
+git restore --staged filename
+>>>>>>> 3df8c88 (02update commandlist)
